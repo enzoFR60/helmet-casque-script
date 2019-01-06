@@ -12,4 +12,5 @@ L'addon consiste à equiper ou desequiper le casque (avec la touche B) biensur a
 ©opyright enzoFR60 
 
 Interdiction de vendre cette addon !
+
 Interdiction de l'utilisé pour des buts lucratif !
